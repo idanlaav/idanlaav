@@ -4,7 +4,7 @@
 - 📫 How to reach me: idanlaav.1@gmail.com/ 052-5349228.
 
 - I did a few projects:
-React/Angular with MySQl and Node.js:
+- React/Angular with MySQl and Node.js:
 1. https://idan-vacation-trip-laav.herokuapp.com/login
 2. https://clothing-store-idan-laav.herokuapp.com
 3. 
