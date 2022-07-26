@@ -8,10 +8,6 @@
 1. https://idan-vacation-trip-laav.herokuapp.com/login
 2. https://clothing-store-idan-laav.herokuapp.com
 3. https://ikea-store-idan-laav.herokuapp.com/home
-4. 
-5. 
-6. 
-7.
 <!-- 4. https://steimatzky-idan-laav.herokuapp.com -->
 <!-- 4. https://am-pm-idan-laav.herokuapp.com // need to fix something -->
 
