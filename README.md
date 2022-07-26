@@ -15,10 +15,10 @@
 8.
 9.
 
-JavaScript, HTML, CSS:
+- JavaScript, HTML, CSS:
 1. https://idanlaav.github.io/Project-number-1/
 
-jQuery:
+- jQuery:
 1. https://idanlaav.github.io/Project-2/#
 
 
