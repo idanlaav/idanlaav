@@ -6,9 +6,10 @@
 - During the course I developed some projects based on new and advanced technologies, for example:
 
 React/Angular with MySQl and Node.js:
-1. https://idan-vacation-trip-laav.herokuapp.com/login
-2. https://clothing-store-idan-laav.herokuapp.com
-3. https://ikea-store-idan-laav.herokuapp.com/home
+1. https://super-laine-idan-laav.herokuapp.com/auth
+2. https://idan-vacation-trip-laav.herokuapp.com/login
+3. https://clothing-store-idan-laav.herokuapp.com
+4. https://ikea-store-idan-laav.herokuapp.com/home
 <!-- 4. https://steimatzky-idan-laav.herokuapp.com -->
 <!-- 4. https://am-pm-idan-laav.herokuapp.com // need to fix something -->
 
