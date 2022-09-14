@@ -11,7 +11,7 @@ React/Angular with MySQl and Node.js:
 3. https://idanlaav-escape-room.herokuapp.com/auth , https://idanlaav-escape-room.herokuapp.com/orders-new
 4. https://clothing-store-idan-laav.herokuapp.com
 5. https://ikea-store-idan-laav.herokuapp.com/home
-<!-- 4. https://steimatzky-idan-laav.herokuapp.com -->
+6. https://steimatzky-idan-laav.herokuapp.com
 <!-- 4. https://am-pm-idan-laav.herokuapp.com // need to fix something -->
 
 JavaScript, HTML, CSS:
