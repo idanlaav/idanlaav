@@ -20,6 +20,9 @@ JavaScript, HTML, CSS:
 jQuery:
 1. https://idanlaav.github.io/Project-2/#
 
+Frontend (JavaScript, HTML, CSS):
+1. https://idanlaav.github.io/harel-idan-laav/
+
 
 <!---
 idanlaav/idanlaav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
