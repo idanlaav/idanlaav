@@ -4,7 +4,8 @@
 - 🌱 I completed a Full Stack course at John Bryce college.
 - During the course, I developed several projects using new and advanced technologies, such as: 
 
-React/Angular with MySQl and Node.js: (The projects are not available on the Heroku website until payment is made, but they can be accessed locally on a computer)
+React/Angular with MySQl and Node.js: \
+(The projects are not available on the Heroku website until payment is made, but they can be accessed locally on a computer)\
 1. https://super-laine-idan-laav.herokuapp.com/auth
 2. https://vacations-update-idan-laav.herokuapp.com/login
 3. https://idanlaav-escape-room.herokuapp.com/auth , https://idanlaav-escape-room.herokuapp.com/orders-new
