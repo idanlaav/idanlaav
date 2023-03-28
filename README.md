@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-How many people have viewed my profile so far?
+How many people have viewed my profile so far?\
 ![Visitor Count](https://profile-counter.glitch.me/{idanlaav/count.svg)
