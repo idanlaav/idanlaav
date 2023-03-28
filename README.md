@@ -22,6 +22,8 @@ jQuery:
 Frontend (JavaScript, HTML, CSS):
 1. https://idanlaav.github.io/harel-idan-laav/
 
+Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idan-laav)
 
 <!---
 idanlaav/idanlaav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
