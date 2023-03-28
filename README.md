@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @idanlaav
-- 👀 I’m working as a Front-end Developer in Aman Group.
-- 📫 How to reach me: idanlaav.1@gmail.com/ 052-5349228.
-
-- 🌱 I finished Full Stack course on John Bryce collage.
-- During the course I developed some projects based on new and advanced technologies, for example:
+- 👋 Hi, I'm @idanlaav.
+- 👀 I work as a Front-end Developer at Aman Group.
+- 📫 You can reach me at idanlaav.1@gmail.com or by phone at 052-5349228.
+- 🌱 I completed a Full Stack course at John Bryce college.
+- During the course, I developed several projects using new and advanced technologies, such as: 
 
 React/Angular with MySQl and Node.js:
 1. https://super-laine-idan-laav.herokuapp.com/auth
@@ -30,4 +29,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![](https://visitcount.itsvg.in/api?id=idanlaav&icon=0&color=0)](https://visitcount.itsvg.in)
