@@ -22,7 +22,7 @@ jQuery:
 Frontend (JavaScript, HTML, CSS):
 1. https://idanlaav.github.io/harel-idan-laav/
 
-Socials:
+🪩Socials:\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idan-laav)
 
 <!---
